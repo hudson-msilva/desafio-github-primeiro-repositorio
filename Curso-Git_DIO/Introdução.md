@@ -56,4 +56,4 @@ Para criar um novo *Repositório Local* via Terminal no Windows utilizando o **G
   
     ``$ git config --global user.name "<user-name>"``
 
-    ---
+---
