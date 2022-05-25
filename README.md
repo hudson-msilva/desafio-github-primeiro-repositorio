@@ -1,7 +1,5 @@
 ## Desafio de Projeto da DIO sobre Git/GitHub
 
----
-
 ### Descrição do Projeto
 
 Consiste em criar o primeiro *repositório* no **GitHub** para versionar o projeto. Abaixo estão relacionadas as ações realizadas para concluir o desafio de projeto da DIO.
